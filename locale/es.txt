@@ -1,0 +1,49 @@
+#: locale=es
+
+## Media
+
+### Audio
+audiores_8FD1048B_AFBB_AB22_41DC_D8821866FE50.mp3Url = media/audio_B216B059_AFAA_AB2F_41D2_C0ADAF5C6A87_es.mp3
+
+### Subtítulos de Audio
+
+### Título
+model_AE0B033C_BE49_D104_41E2_5905D290E252.label = 3D Mikeno
+panorama_A45B0D26_AE95_D562_41B0_9DACE89153D1.label = Baño C 2
+panorama_A45BF459_AE95_AB2E_41E1_D26B7C54EB97.label = Baño C P
+panorama_A45AA767_AE95_75E2_41DF_20ADBB144499.label = Baño P A
+panorama_A458A96D_AE9A_FDE7_41D6_CD7BE813D263.label = BañoPB
+panorama_A2DC85AC_AE9A_B566_41E3_F275FEF46BDF.label = Calle
+panorama_A45B3E92_AE95_D722_41DC_17BB51410309.label = Closet C P
+panorama_A45B7F02_AE95_5522_41E5_4267B72F8C6D.label = Cocina
+panorama_A45B5FC7_AE95_5522_41D9_D8BCC81ACB0B.label = Cuarto 1
+panorama_A45B18B5_AE95_FB66_41DE_2BBAF7DDA1BF.label = Cuarto 2
+panorama_A45BDA2C_AE95_BF66_41D0_09C5B98DB805.label = Cuarto Principal
+panorama_A45B00CF_AE95_AB23_41C6_E2216C576126.label = Estancia Planta Alta
+panorama_A45B23FF_AE95_6CE3_41C0_40BC11A20661.label = Estancia Planta Media
+panorama_A458AE53_AE9A_D723_41E0_6649A718B578.label = Lavanderia
+panorama_A45B48E0_AE9A_BB1E_41E5_3685D5BEE8D5.label = Patio
+panorama_A458AEAF_AE9A_D762_41BF_9C25140DC466.label = Sala
+panorama_A45ACC77_AE95_5BE3_41D3_731BCA6F7340.label = Salon P A
+panorama_A459674D_AE96_B526_41A9_592F30C4F95E.label = Terraza
+album_A6D28AE4_BE58_3304_41E7_8B54B49B8C80_0.label = logo_cortado_MD-removebg-preview
+album_A6D28AE4_BE58_3304_41E7_8B54B49B8C80.label = Álbum de Fotos logo_cortado_MD-removebg-preview
+
+## Skin
+
+### Imágen
+Image_A647F67B_BE5B_D30D_41E3_EA7016189560.url = skin/Image_A647F67B_BE5B_D30D_41E3_EA7016189560_es.png
+Image_A647F67B_BE5B_D30D_41E3_EA7016189560_mobile.url = skin/Image_A647F67B_BE5B_D30D_41E3_EA7016189560_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Mikeno
+
+## Ventana
+
+### Cuerpo
+htmlText_A74DC2FA_BE48_530F_41E7_4D12D85DB15A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:'Arial, Helvetica, sans-serif';">Con gusto su servidor Jorge le atendera sus dudas y quedo atento para juntas y cotizaciones.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:'Arial, Helvetica, sans-serif';">8116187697</SPAN></DIV></BODY></HTML></div>
+htmlText_A6FF8230_BE58_F31B_41D1_DC9E9B258773.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:'Arial, Helvetica, sans-serif';">Con gusto su servidor Jorge le atendera sus dudas y quedo atento para juntas y cotizaciones.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:'Arial, Helvetica, sans-serif';">8116187697</SPAN></DIV></BODY></HTML></div>
